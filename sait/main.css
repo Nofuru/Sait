@@ -1,0 +1,175 @@
+@import url(http://allfont.ru/allfont.css?fonts=droid-sans);
+@import url(http://allfont.ru/allfont.css?fonts=lobster);
+
+body {
+	background-color: white;
+	font-family: 'droid-sans', arial;
+	font-weight: 300;
+	font-size: 16px;
+	color: #555;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover,a:focus {
+	color: black;
+	text-decoration: none;
+	outline: 0;
+}
+#bra {
+	font-family: 'lobster';
+	font-size: 30px;
+	text-shadow: 3px 3px 3px #aaa;
+}
+
+.raz {
+	color: black;
+	margin-right: 20px;
+	position: relative;
+	text-shadow: 1px 1px 1px #aaa;
+	font-family: 'lobster';
+	font-size: 20px;
+}
+.raz:hover {
+	transition: 0.1s;
+	color: black;
+	margin-right: 20px;
+	position: relative;
+	text-shadow: 1px 1px 1px #aaa;
+	font-family: 'lobster';
+	font-size: 20px;
+	border-bottom: 1px solid black;
+}
+.navbar-brand {
+	color: black;
+}
+.navbar-brand:hover {
+	color: black;
+}
+.navbar-brand:focus {
+	color: black;
+}
+#headerwrap {
+	background: url(img/header-bg.jpg) no-repeat center top;
+	margin-top: -10px;
+	padding-top: 20px;
+	text-align: center;
+	background-attachment: local;
+	background-position: center top;
+	min-height: 500px;
+	width: 100%;
+
+	background-size: 100%;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#headerwrap h1 {
+	font-family: 'lobster';
+	margin-top: 150px;
+	font-size: 45px;
+}
+.centered {
+	text-align: center;
+}
+.w {
+	padding-top: 85px;
+	padding-bottom: 65px;
+	border-bottom: 2px solid #eceaeb;
+}
+.w h1,h4, h3 {
+	color: black;
+	font-family: 'lobster'
+}
+.w h2,h6 {
+	color: black;
+	font-family: 'droid-sans'
+}
+#lg {
+	padding-top: 40px;
+	text-align: center;
+}
+.bot {
+	border-bottom: 2px solid #eceaeb;
+	display: flex;
+}
+.part {
+	width: 153px;
+	height: 108px;
+}
+.ep {	
+	color: black;
+	transition: 0.4s;
+	font-size: 19px;
+}
+#ModalLabel {
+	color: #202040;
+}
+#ho {
+	color: green;
+}
+.aut {
+	font-family: 'droid-sans';
+	font-size: 30px;
+	border-bottom: 1px solid black;
+}
+.regi {
+	text-decoration: underline;
+}
+.img-fluid {
+	height: auto;
+	max-width: 100%;
+}
+.popop {
+	background-color: black;
+}
+.last {
+	background-color: black;
+}
+.kontakt {
+	color: white;
+	padding-top: 20px; 
+}
+.kontakt1 {
+	color: white;
+	padding-top: 20px; 
+	padding-left: 0px; 
+}
+#kontakt {
+	color: white;
+}
+.d-m {
+	font-family: 'lobster';
+	font-size: 20px;
+}
+
+.bag {
+	height: 32px;
+	width: 32px;
+}
+.home {
+	font-size: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	border-radius: 0px;
+	font-family: "lobster";
+}
+.EoR {
+	font-size: 15px;
+	color: blue;
+}
+.b-otst {
+	margin-top: 150px;
+}
+.hu {
+	margin-top: 252px;
+}
+.wrapper {
+	margin-top: 253px;
+}
